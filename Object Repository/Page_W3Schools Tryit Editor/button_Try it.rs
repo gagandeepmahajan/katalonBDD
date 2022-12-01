@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Try it</name>
+   <tag></tag>
+   <elementGuidId>9f523b9e-f94e-49fd-8619-27631dc04ef7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='myFunction()']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d789839b-6a29-492b-973f-f69664e25e2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>myFunction()</value>
+      <webElementGuid>9115a13d-e633-4829-8e14-f86ae45bb700</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Try it</value>
+      <webElementGuid>5e999e1a-0f4c-4127-b378-c37a303e40d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/button[1]</value>
+      <webElementGuid>fc56720f-1c16-4a42-a2d4-f42846b7df40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_W3Schools Tryit Editor/iframe__iframeResult</value>
+      <webElementGuid>8a7428c6-67af-41d0-bf84-3dfe13a78601</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='myFunction()']</value>
+      <webElementGuid>26839be9-7eb9-46c5-b2d1-145f25d8de91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JavaScript Alert'])[1]/following::button[1]</value>
+      <webElementGuid>e29ae2bc-b4ad-486a-84f4-34a7471ecfac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/html[1]/body[1]/button[1]'])[1]/preceding::button[1]</value>
+      <webElementGuid>5c133e41-119c-4035-a6eb-7a99d6cd4565</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Try it']/parent::*</value>
+      <webElementGuid>f40a334c-f81e-4f9f-a4ee-0d9fbdc6811c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>6f9b30ac-46ae-41f4-8e84-65e2e96b8f76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Try it' or . = 'Try it')]</value>
+      <webElementGuid>7e184527-4656-4fe5-b50d-459ff608c373</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
